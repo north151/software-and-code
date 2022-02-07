@@ -1,2 +1,3 @@
 # software-and-code
-软件与激活
+## FinalShell离线激活
+## JetBrains全家桶激活
