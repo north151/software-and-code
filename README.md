@@ -4,4 +4,4 @@
 
 [**JetBrains全家桶激活至2099年**](https://github.com/north151/software-and-code/raw/main/JetBrains-code.zip)(误添加解压密码,已忘记)
 
-【**Typora旧版本**]（https://github.com/north151/software-and-code/releases/tag/typora）
+【**Typora旧版本**](https://github.com/north151/software-and-code/releases/tag/typora)
